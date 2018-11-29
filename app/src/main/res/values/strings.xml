@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NewsAPI</string>
+    <string name="no_network_avail">No network available</string>
+    <string name="please_check_network">Please check network</string>
+    <string name="no_news">Currently there are no stories.  Please check back later</string>
+    <string name="check_back_later">Please check back later</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Preferences Screen</string>
+    <string name="settings_country_label">Country of news story</string>
+    <string name="settings_country" translatable="false">news_origin</string>
+    <string name="settings_country_default" translatable="false">US</string>
+    <string name="settings_news_type_label">Type of news to view</string>
+    <string name="settings_news_type">news_type</string>
+    <string name="settings_news_type_default">politics</string>
+
+    <string name="settings_country_us">US</string>
+    <string name="settings_country_ca">CANADA</string>
+    <string name="settings_country_jp">JAPAN</string>
+
+    <string name="settings_country_united">United States</string>
+    <string name="settings_country_canada">Canada</string>
+    <string name="settings_country_japan">Japan</string>
+</resources>

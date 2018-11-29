@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:title="@string/settings_title">
+    <ListViewPreference
+        android:inputType="text"
+        android:entries="@array/settings_country_label"
+        android:entryValues="@array/settings_country_values"
+        android:key="@string/settings_country"
+        android:title="@string/settings_country_label"
+        />
+    <EditTextPreference
+        android:defaultValue="@string/settings_news_type_default"
+        android:inputType="text"
+        android:key="@string_news_type"
+        android:selectAllOnFocus="true"
+        android:title="@string_news_type_label"/>
+
+
+
+</PreferenceScreen>

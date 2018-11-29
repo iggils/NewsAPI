@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_country_values">
+        <item>@string/settings_country_us</item>
+        <item>@string/settings_country_ca</item>
+        <item>@string/settings_country_jp</item>
+    </string-array>
+    <string-array name="settings_country_label">
+        <item>@string/settings_country_united</item>
+        <item>@string/settings_country_canada</item>
+        <item>@string/settings_country_japan</item>
+    </string-array>
+</resources>
